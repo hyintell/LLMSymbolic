@@ -1,0 +1,18 @@
+py4j
+pywebio
+-f https://download.pytorch.org/whl/torch_stable.html
+transformers==4.21.1
+sentencepiece==0.1.96
+scienceworld
+textworld-express==1.0.4
+
+evaluate
+datasets >= 1.8.0
+protobuf
+rouge-score
+nltk
+py7zr
+wandb
+datasets
+spacy==3.3.3
+openai
